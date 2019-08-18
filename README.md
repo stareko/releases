@@ -1,9 +1,9 @@
 # Termix Release
 
 ### Alpha
-`alpha-20190817`
+`alpha-20190818`
 
-[Download](https://github.com/termix-io/releases/releases/tag/alpha-20190817)
+[Download](https://github.com/termix-io/releases/releases/tag/alpha-20190818)
 ### Beta
 `beta-0.3.5`
 
